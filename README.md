@@ -1,7 +1,7 @@
 # Treue_Technologies_BankCustomerChurn
 # Bank Customer Churn Prediction
 
-![Bank Customer Churn](https://miro.medium.com/v2/resize:fit:640/format:webp/1*TD4F1QB8ERIE4O2Dc7IQjQ.png)
+![Bank Customer Churn](https://github.com/AnujPathekar/Images/blob/main/BankCustomerChurnPrediction.jpg)
 
 
 ### Objective - The task is to train a machine learning model to predict whether a bank customer will churn (leave the bank) or not based on various customer attributes and banking behavior. The goal is to create a model that can accurately identify customers who are likely to churn, enabling proactive retention strategies.
